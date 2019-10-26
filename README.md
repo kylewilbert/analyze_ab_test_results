@@ -8,8 +8,18 @@ For this project, we work to understand the results of an A/B test run by an e-c
 
 ### Methods Used
 - hypothesis testing
+- logisitc regression
 - bootstrapping
 
 ### Technologies
 - Python
     - Pandas
+    - NumPy
+    - MatplotLib
+    
+### Needs of the project
+- data cleaning
+- exploratory data analysis
+- statistical modeling
+- reporting
+
